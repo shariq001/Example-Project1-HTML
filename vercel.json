@@ -1,0 +1,13 @@
+{
+    "rewrites": [
+      { "source": "/", "destination": "/home.html" },
+      { "source": "/WhyUs", "destination": "/WhyUs.html" },
+      { "source": "/About", "destination": "/About.html" },
+      { "source": "/Service", "destination": "/Service.html" },
+      { "source": "/Portfolio", "destination": "/Portfolio.html" },
+      { "source": "/Process", "destination": "/Process.html" },
+      { "source": "/Reviews", "destination": "/Review.html" },
+      { "source": "/Skills", "destination": "/Skills.html" },
+      { "source": "/Contact", "destination": "/Contact.html" }
+    ]
+}
